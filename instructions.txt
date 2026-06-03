@@ -1,0 +1,18 @@
+
+                                            ____________
+                                          _/instructions\_
+                                           --------------
+
+             _______
+            |       |
+            |       |
+            |       |    the goal is simple get blue squares to grow your score.
+            |       |
+            |_______|the player is a cyan block (because it was to expensive a detailed player,) and you need to avoid lava
+
+                     (red blocks) and the edge.
+                                                    ____________
+                                              -----/how to play?\-----
+                                                   --------------
+
+         --- use arrow keys to move (the movements are like snake).
